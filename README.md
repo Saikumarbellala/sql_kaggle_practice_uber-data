@@ -1,3 +1,5 @@
+## 🔗 Kaggle Notebook
+[View Kaggle Notebook](https://www.kaggle.com/code/saikumarbellala/sql-exercise-notebook-uber-rider)
 # sql_kaggle_practice_uber-data
 SQL practice using Kaggle  uber RideShare dataset (Beginner &amp; Intermediate completed, Advanced in progress)
 # SQL Practice – Kaggle RideShare Dataset
