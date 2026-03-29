@@ -2,15 +2,15 @@
 SQL practice using Kaggle  uber RideShare dataset (Beginner &amp; Intermediate completed, Advanced in progress)
 # SQL Practice – Kaggle RideShare Dataset
 
-## 📌 Project Overview
+##  Project Overview
 This project contains SQL practice using the Kaggle RideShare dataset.
 
-## ✅ Progress
+##  Progress
 - Beginner: Completed
 - Intermediate: Completed
 - Advanced: In Progress
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 ### Beginner
 - SELECT, FROM, WHERE
@@ -29,12 +29,12 @@ This project contains SQL practice using the Kaggle RideShare dataset.
 - Window Functions (RANK, DENSE_RANK, LAG)
 - Indexes
 
-## ⚙️ Tools Used
+##  Tools Used
 - Kaggle Notebook
 - MYSQL 
 
-## 📊 Dataset
+##  Dataset
 Uber RideShare dataset from Kaggle
 
-## 🚀 Status
+## Status
 Currently improving advanced SQL skills and updating regularly.
